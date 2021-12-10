@@ -1,0 +1,28 @@
+PODS:
+  - ext_video_player (0.0.3):
+    - Flutter
+  - Flutter (1.0.0)
+  - video_player (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - ext_video_player (from `.symlinks/plugins/ext_video_player/ios`)
+  - Flutter (from `Flutter`)
+  - video_player (from `.symlinks/plugins/video_player/ios`)
+
+EXTERNAL SOURCES:
+  ext_video_player:
+    :path: ".symlinks/plugins/ext_video_player/ios"
+  Flutter:
+    :path: Flutter
+  video_player:
+    :path: ".symlinks/plugins/video_player/ios"
+
+SPEC CHECKSUMS:
+  ext_video_player: 725a141c13227c84efe4f5df259c6cf3cbf03f7d
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
