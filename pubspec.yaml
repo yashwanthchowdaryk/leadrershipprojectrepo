@@ -1,4 +1,4 @@
-name: project_leadership
+name: recommandation
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -28,11 +28,6 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  shape_of_view: ^1.0.2
-  video_player:
-  ext_video_player: ^0.0.2
-  http:
-  flutter_swiper: ^1.1.6
 
 dev_dependencies:
   flutter_test:

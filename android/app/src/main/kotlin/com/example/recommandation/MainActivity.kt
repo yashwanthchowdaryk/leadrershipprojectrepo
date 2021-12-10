@@ -1,4 +1,4 @@
-package com.example.project_leadership
+package com.example.recommandation
 
 import io.flutter.embedding.android.FlutterActivity
 

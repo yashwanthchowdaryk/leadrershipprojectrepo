@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.project_leadership">
+    package="com.example.recommandation">
    <application
-        android:label="project_leadership"
+        android:label="recommandation"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
